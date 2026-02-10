@@ -1,3 +1,4 @@
+
 /*******************************************************************************
 *     This file is owned and controlled by Xilinx and must be used             *
 *     solely for design, simulation, implementation and creation of            *
@@ -140,4 +141,5 @@ input wea;
 // synthesis attribute box_type of synch_mem_72 is "black_box"
 
 endmodule
+
 
